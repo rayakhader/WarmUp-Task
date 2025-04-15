@@ -1,7 +1,6 @@
 input{
     padding: 10px 30px;
     width: 100%;
-    box-sizing: border-box;
     background-image: url('../icons/search-interface-symbol.png');
     background-position: 5px center;
     background-repeat: no-repeat;
@@ -10,6 +9,5 @@ input{
     border: 1px solid lightgray;
 }
 .searchable{
-   padding-left: 50px;
-   padding-right: 10px;
+   padding:10px;
 }
