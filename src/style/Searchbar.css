@@ -1,0 +1,13 @@
+input{
+    padding: 10px 30px;
+    width: 100%;
+    background-image: url('../icons/search-interface-symbol.png');
+    background-position: 5px center;
+    background-repeat: no-repeat;
+    background-size: 15px 15px;
+    outline: none;
+    border: 1px solid lightgray;
+}
+.searchable{
+   padding:10px;
+}
