@@ -4,7 +4,7 @@ import './App.css'
 function App() {
   return (
     <div className="App">
-      <h1>Add member to Front-End development team </h1>
+      <h3>Add member to Front-End development team </h3>
       <Searchbar />
       <MembersList />
     </div>
