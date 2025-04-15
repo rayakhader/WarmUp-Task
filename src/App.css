@@ -1,0 +1,9 @@
+.App{
+    width: 50%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+}
+h1{
+    align-self: center;
+}
